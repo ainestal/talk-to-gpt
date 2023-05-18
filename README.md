@@ -4,8 +4,8 @@ Simple terminal utility to interact with OpenAI gpt4 model
 
 ## Pre-requisites
 
--- Rust
--- OpenAI API key exported as OPENAI_API_KEY environment variable
+- Rust => 1.67
+- OpenAI API key, exported as OPENAI_API_KEY environment variable
 
 ## Usage
 
